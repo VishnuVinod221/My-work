@@ -1,0 +1,16 @@
+.Bio{
+    background-color: black;
+    height: 6px;
+    width: 100px;
+    margin: auto;
+}
+body{
+    text-align: center;
+}
+img{
+    transition:transform 0.1s;
+    height: 270px;
+}
+img:hover{
+    transform: scale(0.7);
+}
